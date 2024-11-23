@@ -19,6 +19,12 @@ A simple yet elegant to-do list application built with Python and the Tkinter li
   - **Ctrl+T**: Toggle task completion status
 
 ---
+## Screenshots
+
+**App Interface**:
+
+![image alt](https://github.com/Garvitsharma-gs/To-Do-List/blob/ec83941dcc77e3c24f8e98e0c5a6588cecd43050/To-Do%20List%20.png)
+---
 
 ## Installation
 
@@ -62,30 +68,5 @@ When you launch the application, the following features are available:
 
 ---
 
-## Screenshots
 
-**App Interface**:
 
-![image alt](https://github.com/Garvitsharma-gs/To-Do-List/blob/ec83941dcc77e3c24f8e98e0c5a6588cecd43050/To-Do%20List%20.png)
----
-
-## Contributing
-
-Feel free to fork this repository and create a pull request for any improvements or features you would like to contribute. Please ensure that your code adheres to the existing style and includes necessary tests if applicable.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- Tkinter for building the graphical user interface.
-- Python for the language and simplicity of development.
-
----
-
-This README should provide a clear and concise guide to your repository, explaining its purpose, features, and usage.
