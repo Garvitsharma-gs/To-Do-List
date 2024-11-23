@@ -1,6 +1,4 @@
-Here’s a README file template for your GitHub repository:
 
----
 
 # To-Do List Application
 
