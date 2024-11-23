@@ -33,7 +33,7 @@ To use the To-Do List application, you need Python installed on your system. Fol
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/Garvitsharma-gs/To-Do-List
    ```
 
 2. **Navigate to the project directory**:
