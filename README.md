@@ -66,8 +66,7 @@ When you launch the application, the following features are available:
 
 **App Interface**:
 
-![image alt]([screenshots/todo_list_screenshot.png](https://github.com/Garvitsharma-gs/To-Do-List/blob/82a88354e378f0161753d740d596406cf24b01e6/To-Do%20List%20.png))
-
+![image alt](https://github.com/Garvitsharma-gs/To-Do-List/blob/ec83941dcc77e3c24f8e98e0c5a6588cecd43050/To-Do%20List%20.png)
 ---
 
 ## Contributing
